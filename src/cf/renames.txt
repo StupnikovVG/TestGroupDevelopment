@@ -4,6 +4,7 @@ AccumulationRegisters\ОстаткиТоваров.xml-->AccumulationRegisters\�
 AccumulationRegisters\ПартииТоваров.xml-->AccumulationRegisters\ПартииТоваров.xml
 Catalogs\Контрагенты.xml-->Catalogs\Контрагенты.xml
 Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
+Catalogs\Номенклатура\Ext\ObjectModule.bsl-->Catalogs\Номенклатура\Ext\ObjectModule.bsl
 Documents\ЗакупкаТоваровИУслуг.xml-->Documents\ЗакупкаТоваровИУслуг.xml
 Documents\Продажа.xml-->Documents\Продажа.xml
 Documents\ЗакупкаТоваровИУслуг\Ext\ObjectModule.bsl-->Documents\ЗакупкаТоваровИУслуг\Ext\ObjectModule.bsl

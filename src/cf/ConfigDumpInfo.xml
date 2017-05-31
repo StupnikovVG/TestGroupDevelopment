@@ -12,7 +12,8 @@
 			<Metadata name="AccumulationRegister.ПартииТоваров.Dimension.Номенклатура" id="f80a164c-18d6-4458-a462-33b9c6a25730"/>
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты" id="8813ef9e-838a-42e3-995c-94b1517e5581" configVersion="2eb070a3eca1b94c9edcb312a36d196400000000"/>
-		<Metadata name="Catalog.Номенклатура" id="2ed70984-f7ee-4797-9686-28032c9daa00" configVersion="28dda39cf2001d4f8e10185021cfd43700000000"/>
+		<Metadata name="Catalog.Номенклатура" id="2ed70984-f7ee-4797-9686-28032c9daa00" configVersion="240bd7fc80bae14d80ea48842e3d185d00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="2ed70984-f7ee-4797-9686-28032c9daa00.0" configVersion="9906a77f7c14624fb9f029420dd1df6c00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="cc3c5388-1911-475b-962c-1eb6788d860a" configVersion="6e87948ccd559f4b897cf92b2cb5427800000000"/>
 		<Metadata name="Document.ЗакупкаТоваровИУслуг" id="c93e21cc-7552-4886-befa-155365421486" configVersion="8fbdcf1209570348b20ad5bbc363c04400000000">
 			<Metadata name="Document.ЗакупкаТоваровИУслуг.TabularSection.Номенклатура.Attribute.Сумма" id="1a66d6c2-259a-4aa0-89ca-39a10734c391"/>
