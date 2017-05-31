@@ -11,8 +11,8 @@
 			<Metadata name="AccumulationRegister.ПартииТоваров.Resource.Количество" id="ed3551ab-84db-4f9b-9276-c462c4aa27d6"/>
 			<Metadata name="AccumulationRegister.ПартииТоваров.Dimension.Номенклатура" id="f80a164c-18d6-4458-a462-33b9c6a25730"/>
 		</Metadata>
-		<Metadata name="Catalog.Валюты" id="fbaec581-ab2e-4923-b90c-97f07ebab67d" configVersion="18900ddcaa5bb94189fcd2eba297e93000000000"/>
-		<Metadata name="Catalog.Валюты.ObjectModule" id="fbaec581-ab2e-4923-b90c-97f07ebab67d.0" configVersion="f9283d27c08a06439aaac72fecc9e4ab00000000"/>
+		<Metadata name="Catalog.Валюты" id="fbaec581-ab2e-4923-b90c-97f07ebab67d" configVersion="6b0874461d625847a44604bb0381fd9400000000"/>
+		<Metadata name="Catalog.Валюты.ObjectModule" id="fbaec581-ab2e-4923-b90c-97f07ebab67d.0" configVersion="53887926a6ed0a498ef08b9967da217800000000"/>
 		<Metadata name="Catalog.Контрагенты" id="8813ef9e-838a-42e3-995c-94b1517e5581" configVersion="2eb070a3eca1b94c9edcb312a36d196400000000"/>
 		<Metadata name="Catalog.Номенклатура" id="2ed70984-f7ee-4797-9686-28032c9daa00" configVersion="51c133699212ea409ec6b4ef215e212000000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="2ed70984-f7ee-4797-9686-28032c9daa00.0" configVersion="ac6d7fd4e3cbd547b8dee3ea75995ee800000000"/>
