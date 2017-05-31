@@ -14,8 +14,8 @@
 		<Metadata name="Catalog.Валюты" id="fbaec581-ab2e-4923-b90c-97f07ebab67d" configVersion="5b23856f80d2314ca46ff81e0ab09f0500000000"/>
 		<Metadata name="Catalog.Валюты.ObjectModule" id="fbaec581-ab2e-4923-b90c-97f07ebab67d.0" configVersion="ed61ac9d4d95de4a908fce6768be725200000000"/>
 		<Metadata name="Catalog.Контрагенты" id="8813ef9e-838a-42e3-995c-94b1517e5581" configVersion="e911a2c1a0ef224f828c60292ee2fc8d00000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="745d7a46-f0ba-4226-b6a6-df09d314184a" configVersion="5ef7d032f6aa1945bfa879286c8ae00100000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="745d7a46-f0ba-4226-b6a6-df09d314184a.0" configVersion="695349cefe823b44a1afe6bfe05fa8b200000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="745d7a46-f0ba-4226-b6a6-df09d314184a" configVersion="c5054ffceff2c240a606fccc202df38d00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="745d7a46-f0ba-4226-b6a6-df09d314184a.0" configVersion="c1ba1d02fe7d4f47bc6fad4325b807f700000000"/>
 		<Metadata name="Catalog.Номенклатура" id="2ed70984-f7ee-4797-9686-28032c9daa00" configVersion="51c133699212ea409ec6b4ef215e212000000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="2ed70984-f7ee-4797-9686-28032c9daa00.0" configVersion="ac6d7fd4e3cbd547b8dee3ea75995ee800000000"/>
 		<Metadata name="Configuration.Конфигурация" id="cc3c5388-1911-475b-962c-1eb6788d860a" configVersion="d32f7252bb4d0a4dae7b3b6a727aba1c00000000"/>
