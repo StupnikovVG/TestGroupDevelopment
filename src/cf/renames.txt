@@ -5,6 +5,7 @@ AccumulationRegisters\ПартииТоваров.xml-->AccumulationRegisters\П�
 Catalogs\Валюты.xml-->Catalogs\Валюты.xml
 Catalogs\Контрагенты.xml-->Catalogs\Контрагенты.xml
 Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
+Catalogs\Валюты\Ext\ObjectModule.bsl-->Catalogs\Валюты\Ext\ObjectModule.bsl
 Catalogs\Номенклатура\Ext\ObjectModule.bsl-->Catalogs\Номенклатура\Ext\ObjectModule.bsl
 Documents\ЗакупкаТоваровИУслуг.xml-->Documents\ЗакупкаТоваровИУслуг.xml
 Documents\Продажа.xml-->Documents\Продажа.xml
