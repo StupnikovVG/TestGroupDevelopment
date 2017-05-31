@@ -120,6 +120,7 @@
 			<Language>Русский</Language>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Валюты</Catalog>
 			<Document>ЗакупкаТоваровИУслуг</Document>
 			<Document>Продажа</Document>
 			<Report>ДвиженияДокумента</Report>
